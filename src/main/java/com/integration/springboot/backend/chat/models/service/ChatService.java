@@ -1,8 +1,8 @@
-package com.bolsadeideas.springboot.backend.chat.models.service;
+package com.integration.springboot.backend.chat.models.service;
 
 import java.util.List;
 
-import com.bolsadeideas.springboot.backend.chat.models.documents.Mensaje;
+import com.integration.springboot.backend.chat.models.documents.Mensaje;
 
 public interface ChatService {
 

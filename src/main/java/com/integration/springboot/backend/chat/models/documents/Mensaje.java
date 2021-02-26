@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.backend.chat.models.documents;
+package com.integration.springboot.backend.chat.models.documents;
 
 import java.io.Serializable;
 

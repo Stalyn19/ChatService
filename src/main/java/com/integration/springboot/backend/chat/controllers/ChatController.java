@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.backend.chat.controllers;
+package com.integration.springboot.backend.chat.controllers;
 
 import java.util.Date;
 import java.util.Random;
@@ -9,8 +9,8 @@ import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Controller;
 
-import com.bolsadeideas.springboot.backend.chat.models.documents.Mensaje;
-import com.bolsadeideas.springboot.backend.chat.models.service.ChatService;
+import com.integration.springboot.backend.chat.models.documents.Mensaje;
+import com.integration.springboot.backend.chat.models.service.ChatService;
 
 @Controller
 public class ChatController {
